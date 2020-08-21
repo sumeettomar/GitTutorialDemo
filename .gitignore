@@ -1,0 +1,18 @@
+error.log
+
+only the error.log file will be ignored.
+
+*.log
+
+This will ignore all the file with ".log" extensions.
+
+dir/
+
+this will ignore the directory
+
+/dir/
+
+this will ignore only the outside directory named dir.. internal one will be tracked.
+
+db.accdb
+to be ignored.txt

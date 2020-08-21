@@ -1,0 +1,14 @@
+This is version 1 of my project.
+I want this to go to commit 2.
+Changed again.
+fourth edit.
+fifth edit.
+
+git diff: it compares the file in staging and working area
+
+git diff --staged: to check the difference between the commits.
+
+new line added to check the difference
+this is changed now
+
+git commit -a -m : To do direct commit, skipping staging. Only the tracked file can be commited directly.
